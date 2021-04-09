@@ -1,6 +1,6 @@
 # Hi, I'm Leah! 
 
-![Profile Img](/profile.png)
+![Profile Img](/profile-pic.png)
 
 I'm an inquisitive and driven full-stack software engineer skilled in React, JavaScript, Ruby on Rails, SQL, HTML and CSS. As a developer, I'm inspired and motivated to learn from others and experiment with new technologies and programming languages. The limitless power of programming never ceases to amaze me and continues to propel me to becoming the best developer I can be. 
 
