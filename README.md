@@ -12,4 +12,4 @@ After majoring in Art History + Creative Writing in college, I transitioned into
 
 :blue_book: Currently reading: Maisie Dobb's Birds of a Feather :bird:
 
-:musical_score: Currently listening: Bibi Flash 
+:musical_score: Currently listening: [Bibi Flash](https://open.spotify.com/track/5JAGMln9Bd4xrHkjS4jMf2?si=m75LEXAnTGin8Bt2y7-1IQ) 
