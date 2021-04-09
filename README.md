@@ -6,6 +6,6 @@ After majoring in Art History + Creative Writing in college, I transitioned into
 
 
 
-:owl Currently learning: Python :snake 
-:book Currently reading: Maisie Dobb's Birds of a Feather :bird 
-:music Currently listening: Bibi Flash 
+:bulb: Currently learning: Python :snake: 
+:blue_book: Currently reading: Maisie Dobb's Birds of a Feather :bird:
+:musical_score: Currently listening: Bibi Flash 
